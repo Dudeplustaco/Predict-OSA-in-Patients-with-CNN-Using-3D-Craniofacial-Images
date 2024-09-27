@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Predict OSA in Patients with CNN Using 3D Craniofacial", "Predict OSA in Patients with CNN Using 3D Craniofacial.pyproj", "{66041932-592B-4885-B7D6-AB55050A7B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66041932-592B-4885-B7D6-AB55050A7B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66041932-592B-4885-B7D6-AB55050A7B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {235D874A-C153-451C-B156-352856391BEC}
+	EndGlobalSection
+EndGlobal
